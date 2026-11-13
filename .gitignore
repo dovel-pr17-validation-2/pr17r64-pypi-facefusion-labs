@@ -1,0 +1,11 @@
+__pycache__
+.assets
+.claude
+.datasets
+.idea
+.inputs
+.exports
+.logs
+.models
+.outputs
+.vscode
